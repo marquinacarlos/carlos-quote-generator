@@ -1,5 +1,5 @@
 // IMPORTANT: Change this URL to your deployed backend URL when you deploy
-const API_URL = "http://127.0.0.1:3000";
+const API_URL = "http://mo8538gp93v5lk9x6bu988yq.178.105.39.91.sslip.io/";
 
 const quoteText = document.getElementById("quote-text");
 const quoteAuthor = document.getElementById("quote-author");
