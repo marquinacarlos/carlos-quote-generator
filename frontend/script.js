@@ -1,5 +1,5 @@
 // IMPORTANT: Change this URL to your deployed backend URL when you deploy
-const API_URL = "http://mo8538gp93v5lk9x6bu988yq.178.105.39.91.sslip.io/";
+const API_URL = "https://carlos-quote-generator-production.up.railway.app/";
 
 const quoteText = document.getElementById("quote-text");
 const quoteAuthor = document.getElementById("quote-author");
